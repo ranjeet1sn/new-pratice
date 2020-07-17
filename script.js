@@ -1,4 +1,4 @@
 setTimeout(()=>{
     document.write('hii');
-    console.log('gg)
+    console.log('gg');
 },3000)
